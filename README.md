@@ -10,6 +10,8 @@ All the data is retrieved with one JSON AJAX request to a Flask python applicati
 and combines information from the StackStorm API into the proper dashboard format. View the *.py files in this
 repository for more info.
 
+![StackStorm job monitor](docs/stackstorm-job-monitor.png)
+
 ## Steps to update this software
 
 ### 1) Get asset files
